@@ -311,19 +311,6 @@ export const projects = [{
         category: "web app",
         github: "https://github.com/rishavchanda/Podstream",
         webapp: "https://podstream.netlify.app/",
-        member: [{
-                name: "Rishav Chanda",
-                img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-                linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-                github: "https://github.com/rishavchanda/",
-            },
-            {
-                name: "Upasana Chaudhuri",
-                img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-                linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-                github: "https://github.com/upasana0710",
-            },
-        ],
     },
     {
         id: 1,
@@ -353,19 +340,6 @@ export const projects = [{
         category: "machine learning",
         github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
         webapp: "https://brain-tumor.netlify.app/",
-        member: [{
-                name: "Rishav Chanda",
-                img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-                linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-                github: "https://github.com/rishavchanda/",
-            },
-            {
-                name: "Upasana Chaudhuri",
-                img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-                linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-                github: "https://github.com/upasana0710",
-            },
-        ],
     },
     {
         id: 3,
