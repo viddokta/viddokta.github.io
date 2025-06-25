@@ -110,10 +110,6 @@ export const skills = [{
                 image: "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
             },
             {
-                name: "Dart",
-                image: "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg",
-            },
-            {
                 name: "XML",
                 image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
             },
