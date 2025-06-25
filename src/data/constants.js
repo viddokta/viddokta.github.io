@@ -8,7 +8,7 @@ export const Bio = {
     ],
     description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/viddokta",
-    resume: "https://drive.google.com/file/d/1qSdpZ6aUuWw6EqD4AlTpQESyJ5J30eXp/view",
+    resume: "https://drive.google.com/file/d/1Mi3VJCpYArMcdtVnmLJ30-LzQpGwUp3-/view",
     linkedin: "https://www.linkedin.com/in/david-okta-925aa42a1/",
     twitter: "https://twitter.com/viddokt",
     insta: "https://www.instagram.com/vidd.okt/",
