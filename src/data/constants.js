@@ -6,7 +6,7 @@ export const Bio = {
         "UI/UX Designer",
         "Programmer",
     ],
-    description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    description: "I am a motivated and versatile individual, always eager to embrace new challenges. With a passion for learning, I am dedicated to delivering high-quality results. Driven by a positive attitude and a growth mindset, I am ready to make meaningful contributions and achieve great things.",
     github: "https://github.com/viddokta",
     resume: "https://drive.google.com/file/d/1Mi3VJCpYArMcdtVnmLJ30-LzQpGwUp3-/view",
     linkedin: "https://www.linkedin.com/in/david-okta-925aa42a1/",
@@ -22,8 +22,8 @@ export const skills = [{
                 image: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
             },
             {
-                name: "Redux",
-                image: "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+                name: "Vue Js",
+                image: "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg",
             },
             {
                 name: "Next Js",
@@ -82,6 +82,10 @@ export const skills = [{
                 image: "https://www.postgresql.org/media/img/about/press/elephant.png",
             },
             {
+                name: "PHP",
+                image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+            },
+            {
                 name: "MongoDB",
                 image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
             },
@@ -100,6 +104,10 @@ export const skills = [{
             {
                 name: "Kotlin",
                 image: "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+            },
+            {
+                name: "Dart",
+                image: "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg",
             },
             {
                 name: "XML",
@@ -253,28 +261,28 @@ export const education = [{
         id: 0,
         img: "https://2.bp.blogspot.com/-K-PltWqQ4VI/W_-SLB9OIJI/AAAAAAAAAs4/ZxHsTNu6kxMD7TqEgrP0lnwYe971okmzwCLcBGAs/w576/big-universitas-pamulang-unpam-logo-NDA4MQ%253D%253D.jpg",
         school: "Pamulang University, South Tangerang",
-        date: "Oct 2021 - Sep 2025",
-        grade: "8.71 CGPA",
-        desc: "I am currently pursuing a Bachelor's degree in Informatics Engineering at Pamulang University, South Tangerang. I have completed 5 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, etc. I'm also a member of the Google Developers Student Club (GDSC) at KIIT, where I learn and work on interesting projects with a team of talented developers.",
-        degree: "Bachelor of Technology - BTech, Information Science and Engineering",
+        date: "Mar 2021 - Sep 2025",
+        grade: "3.40 CGPA",
+        desc: "I have earned a Bachelor's degree in Informatics Engineering from Pamulang University, South Tangerang, with a GPA of 3.40. During my studies, I completed courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I was also an active member of the Google Developer Student Club (GDSC) at KIIT, where I collaborated on various projects and learned alongside a team of talented developers.",
+        degree: "Bachelor’s Degree in Informatics Engineering",
     },
     {
         id: 1,
         img: "https://2.bp.blogspot.com/-5z2liAst9BU/VlM9udAh8SI/AAAAAAAAAH8/ORbdkMXDM2U/s200/kd_20150407130931_81891_smkannurmaniyah.jpg",
-        school: "Binong Permai High School, Tangerang",
-        date: "Apr 2018 - Apr 2021",
+        school: "Binong Permai Vocational High School, Tangerang",
+        date: "Apr 2017 - Sep 2020",
         grade: "88.2%",
-        desc: "I completed my 12th grade secondary school education at Binong Permai Vocational High School, Tangerang. I majored in multimedia.",
-        degree: "MM(XII), Multimedia Department",
+        desc: "I completed my vocational secondary education at Binong Permai Vocational High School, Tangerang, majoring in Multimedia. During this time, I gained foundational knowledge and skills in design, video editing, and digital content creation.",
+        degree: "Multimedia Major (MM), 12th Grade",
     },
     {
         id: 2,
         img: "https://haristepanus.files.wordpress.com/2020/04/1586317795091_logo-smp-3.jpg?w=901",
         school: "SMP Negeri 1 Kelapa Dua, Tangerang",
-        date: "Apr 2015 - Apr 2018",
+        date: "Nov 2014 - Mar 2017",
         grade: "92.3%",
-        desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-        degree: "ICSC(IX), Science with Computer",
+        desc: "I completed my junior high school education at SMP Negeri 1 Kelapa Dua, Tangerang, with a strong academic record and a focus on general science and mathematics.",
+        degree: "Junior High School (SMP), Grade 9",
     },
 ];
 
